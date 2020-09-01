@@ -1,0 +1,42 @@
+.navbar, .navbar-expand-lg, .navbar-light, .bg-light{
+    background-color: rgb(80, 206, 238) !important;
+}
+
+#navbarNavAltMarkup {
+    float: right !important;
+}
+#content {
+    background-image: url('./marble-top-1101122.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.card {
+    background-color: rgb(80, 206, 238);
+}
+
+.carousel {
+    width:640px;
+    height:360px;
+  }
+
+.footer {
+    margin-top: 150px;
+}
+
+.backimage {
+    background-image: url('./marble-top-1101122.jpg');
+}
+
+.jumbotron {
+    background-color: rgb(80, 206, 238);
+}
+
+.carousel-inner {
+    margin: 0 auto !important;
+    float: center;
+  }
